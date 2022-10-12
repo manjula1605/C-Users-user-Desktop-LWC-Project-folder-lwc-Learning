@@ -1,2 +1,2 @@
-# C-Users-user-Desktop-LWC-Project-folder-lwc-Learning
+lwc-Learning
 Here is my all lwc Projects
